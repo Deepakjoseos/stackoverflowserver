@@ -1,8 +1,0 @@
-POST  http://localhost:5000/user/loginOtp
-Content-Type: application/json
-
-{
-    "phoneno":"7907018663",
-}
-
-
